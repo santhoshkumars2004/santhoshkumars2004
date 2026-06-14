@@ -12,9 +12,9 @@
 ![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-6d28d9?style=flat-square&logo=googlemaps&logoColor=white)
 
 <p>
-  <a href="https://santhoshkumars2004.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/santhoshkumars2004" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:santhoshkumars2004@gmail.com"><img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://santhoshkumars.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/santhosh-kumar-s-67465a239" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:santhoshkumar.btech1@gmail.com"><img src="https://img.shields.io/badge/Email-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/santhoshkumars2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-5b21b6?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -262,10 +262,10 @@ Open To:
 ### 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:santhoshkumars2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/santhoshkumars2004" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:santhoshkumar.btech1@gmail.com"><img src="https://img.shields.io/badge/Gmail-6d28d9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/santhosh-kumar-s-67465a239" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/santhoshkumars2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-5b21b6?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://santhoshkumars2004.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://santhoshkumars.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
